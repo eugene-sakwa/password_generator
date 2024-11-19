@@ -1,0 +1,12 @@
+{
+  "name": "password_generator",
+  "version": "1.0.0",
+  "description": "A robust and customizable password generator designed to create secure, random passwords for safeguarding your accounts and sensitive information. This project follows modern programming practices, ensuring clean, modular, and maintainable code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
